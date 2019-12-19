@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HagPhish
+namespace HagPhish.Console
 {
     class Program
     {
