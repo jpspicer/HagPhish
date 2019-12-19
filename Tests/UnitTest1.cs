@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Tests
+namespace HagPhish.Tests
 {
     public class UnitTest1
     {
